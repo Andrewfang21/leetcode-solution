@@ -9,7 +9,7 @@ public:
     map<char, int> exist;
     while (r < n)
     {
-      exist[s[r]]++;
+      exist[s[r]] ++;
       if (exist[s[r]] >= exist[mostOccur])
         mostOccur = s[r];
 
@@ -17,10 +17,10 @@ public:
       if (currLength - exist[mostOccur] > k)
       {
         exist[s[l]]--;
-        l++;
+        l ++;
         currLength--;
       }
-      r++;
+      r ++;
       res = max(res, currLength);
     }
     return res;

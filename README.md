@@ -19,7 +19,9 @@
 
 - [x] Burst Balloons **(Hard)** - https://leetcode.com/problems/burst-balloons/
 - [x] Wildcard Matching **(Hard)** - https://leetcode.com/problems/wildcard-matching/
-- [x] Burst Balloons **(Hard)** - https://leetcode.com/problems/burst-balloons/
+- [x] Edit Distance **(Hard)** - https://leetcode.com/problems/edit-distance/
+- [x] Longest Palindromic Substring **(Medium)** - https://leetcode.com/problems/longest-palindromic-substring/
+- [x] Minimum Path Sum **(Medium)** - https://leetcode.com/problems/minimum-path-sum/
 - [x] House Robber II **(Medium)** - https://leetcode.com/problems/house-robber-ii/
 - [x] Unique Paths II **(Medium)** - https://leetcode.com/problems/unique-paths-ii/
 - [x] Coin Change **(Medium)** - https://leetcode.com/problems/coin-change/
@@ -27,6 +29,7 @@
 - [x] Range Sum Query 2D - Immutable **(Medium)** - https://leetcode.com/problems/range-sum-query-2d-immutable/
 - [x] Range Sum Query - Immutable **(Easy)** - https://leetcode.com/problems/range-sum-query-immutable/
 - [x] House Robber **(Easy)** - https://leetcode.com/problems/house-robber/
+- [x] Climbing Stairs **(Easy)** - https://leetcode.com/problems/climbing-stairs/
 
 ### Graph
 
@@ -50,7 +53,11 @@
 ### Hash Map
 
 - [x] Top K Frequent Elements **(Medium)** - https://leetcode.com/problems/top-k-frequent-elements/
+- [x] Contiguous Array **(Medium)** - https://leetcode.com/problems/contiguous-array/
 - [x] Isomorphic Strings **(Easy)** - https://leetcode.com/problems/isomorphic-strings/
+- [x] Contains Duplicate II **(Easy)** - https://leetcode.com/problems/contains-duplicate-ii/
+- [x] Valid Anagram **(Easy)** - https://leetcode.com/problems/valid-anagram/
+- [x] Intersection of Two Arrays **(Easy)** - https://leetcode.com/problems/intersection-of-two-arrays/
 
 ### Heap
 
@@ -67,6 +74,7 @@
 - [x] Longest Repeating Characters Replacement **(Medium)** - https://leetcode.com/problems/longest-repeating-character-replacement/
 
 ### Sort
+
 - [x] Largest Number **(Medium)** - https://leetcode.com/problems/largest-number/
 
 ### Stack
@@ -78,5 +86,9 @@
 ### Two Pointers
 
 - [x] Subarrays with K Different Integers **(Hard)** - https://leetcode.com/problems/subarrays-with-k-different-integers/
+- [x] Rotate List **(Medium)** - https://leetcode.com/problems/rotate-list/
+- [x] Sort Colors **(Medium)** - https://leetcode.com/problems/sort-colors/
 - [x] Max Consecutive Ones III **(Medium)** - https://leetcode.com/problems/max-consecutive-ones-iii/
+- [x] Find the Duplicate Number **(Medium)** - https://leetcode.com/problems/find-the-duplicate-number/
 - [x] Reverse String **(Easy)** - https://leetcode.com/problems/reverse-string/
+- [x] Valid Palindrom **(Easy)** - https://leetcode.com/problems/valid-palindrome/
