@@ -43,9 +43,17 @@
 ### Greedy
 
 - [x] Patching Array **(Hard)** - https://leetcode.com/problems/patching-array/
+- [x] Candy **(Hard)** - https://leetcode.com/problems/candy/
+- [x] Create Maxiumum Number **(Hard)** - https://leetcode.com/problems/create-maximum-number/
+- [x] Remove Duplicate Letters **(Hard)** - https://leetcode.com/problems/remove-duplicate-letters/submissions/
 - [x] Jump Game II **(Hard)** - https://leetcode.com/problems/jump-game-ii/
 - [x] Jump Game **(Medium)** - https://leetcode.com/problems/jump-game/
 - [x] Gas Station **(Medium)** - https://leetcode.com/problems/gas-station/
+- [x] Check If a String Can Break Another String **(Medium)** - https://leetcode.com/problems/check-if-a-string-can-break-another-string/
+- [x] Non-overlapping Intervals **(Medium)** - https://leetcode.com/problems/non-overlapping-intervals/
+- [x] Queue Reconstruction by Height **(Medium)** - https://leetcode.com/problems/queue-reconstruction-by-height/
+- [x] Reduce Array Size to The Half **(Medium)** - https://leetcode.com/problems/reduce-array-size-to-the-half/
+- [x] Two City Scheduling **(Medium)** - https://leetcode.com/problems/two-city-scheduling/
 - [x] Assign Cookies **(Easy)** - https://leetcode.com/problems/assign-cookies/
 - [x] Maximize Sum Of Array After K Negotiations **(Easy)** - https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 - [x] Is Subsequence **(Easy)** - https://leetcode.com/problems/is-subsequence/
@@ -66,6 +74,8 @@
 - [x] Top K Frequent Words **(Medium)** - https://leetcode.com/problems/top-k-frequent-words/
 - [x] Sort Characters By Frequency **(Medium)** - https://leetcode.com/problems/sort-characters-by-frequency/
 - [x] Kth Largest Element in an Array **(Medium)** - https://leetcode.com/problems/kth-largest-element-in-an-array/
+- [x] Find K Pairs with Smallest Sum **(Medium)** - https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+- [x] Last Stone Weight **(Easy)** - https://leetcode.com/problems/last-stone-weight/
 
 ### Sliding Window
 
