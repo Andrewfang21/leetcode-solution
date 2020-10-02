@@ -12,6 +12,11 @@
 
 ### Binary Search
 
+- [x] Dungeon Game **(Hard)** - https://leetcode.com/problems/dungeon-game/
+- [x] Find Minimum in Rotated Sorted Array II **(Hard)** - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+- [x] Find Minimum in Rotated Sorted Array **(Medium)** - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+- [x] Search in Rotated Sorted Array II **(Medium)** - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- [x] Search in Rotated Sorted Array **(Medium)** - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [x] Find First and Last Position of Element in Sorted Array **(Medium)** - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 - [x] Find Peak Element **(Medium)** - https://leetcode.com/problems/find-peak-element/
 
@@ -42,10 +47,16 @@
 
 ### Greedy
 
+- [x] Minimum Possible Integer After at Most K Adjacent Swaps On Digits **(Hard)** - https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/
 - [x] Patching Array **(Hard)** - https://leetcode.com/problems/patching-array/
 - [x] Candy **(Hard)** - https://leetcode.com/problems/candy/
 - [x] Create Maxiumum Number **(Hard)** - https://leetcode.com/problems/create-maximum-number/
 - [x] Remove Duplicate Letters **(Hard)** - https://leetcode.com/problems/remove-duplicate-letters/submissions/
+- [x] Smallest Range II **(Medium)** - https://leetcode.com/problems/smallest-range-ii/
+- [x] Split Array into Consecutive Subsequences **(Medium)** - https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+- [x] Boats to Save People **(Medium)** - https://leetcode.com/problems/boats-to-save-people/
+- [x] Dota2 Senate **(Medium)** - https://leetcode.com/problems/dota2-senate/
+- [x] Minimum Add to Make Parantheses Valid **(Medium)** - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 - [x] Jump Game II **(Hard)** - https://leetcode.com/problems/jump-game-ii/
 - [x] Jump Game **(Medium)** - https://leetcode.com/problems/jump-game/
 - [x] Gas Station **(Medium)** - https://leetcode.com/problems/gas-station/
@@ -57,6 +68,7 @@
 - [x] Assign Cookies **(Easy)** - https://leetcode.com/problems/assign-cookies/
 - [x] Maximize Sum Of Array After K Negotiations **(Easy)** - https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 - [x] Is Subsequence **(Easy)** - https://leetcode.com/problems/is-subsequence/
+- [x] Split a String in Balanced Strings **(Easy)** - https://leetcode.com/problems/split-a-string-in-balanced-strings/
 
 ### Hash Map
 
