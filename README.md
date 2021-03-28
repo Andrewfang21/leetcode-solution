@@ -1,16 +1,19 @@
 ### Array
 
-- [x] Insert Interval **(Hard)** - https://leetcode.com/problems/insert-interval/
 - [x] First Missing Positive **(Hard)** - https://leetcode.com/problems/first-missing-positive/
 - [x] Longest Consecutive Sequence **(Hard)** - https://leetcode.com/problems/longest-consecutive-sequence/
 - [x] Maximal Rectangle **(Hard)** - https://leetcode.com/problems/maximal-rectangle/
 - [x] Largest Rectangle in Histogram **(Hard)** - https://leetcode.com/problems/largest-rectangle-in-histogram/ 
 - [x] Merge Intervals **(Medium)** - https://leetcode.com/problems/merge-intervals/
+- [x] Insert Interval **(Medium)** - https://leetcode.com/problems/insert-interval/
 - [x] Subarray Sum Equals K **(Medium)** - https://leetcode.com/problems/subarray-sum-equals-k/
 - [x] Subsets II **(Medium)** - https://leetcode.com/problems/subsets-ii/
 - [x] Max Area of Island **(Medium)** - https://leetcode.com/problems/max-area-of-island/
 - [x] Maximum Product Subarray **(Medium)** - https://leetcode.com/problems/maximum-product-subarray/
 - [x] Product of Array Except Self **(Medium)** - https://leetcode.com/problems/product-of-array-except-self/
+- [x] Find All Duplicates in an Array **(Medium)** - https://leetcode.com/problems/find-all-duplicates-in-an-array/
+- [x] Move Zeroes **(Easy)** - https://leetcode.com/problems/move-zeroes/
+- [x] Degree of an Array **(Easy)** - https://leetcode.com/problems/degree-of-an-array/
 - [x] Two Sum **(Easy)** - https://leetcode.com/problems/two-sum/
 - [x] Maximum Subarray **(Easy)** - https://leetcode.com/problems/maximum-subarray/
 - [x] Best Time to Buy and Sell Stock **(Easy)** - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -18,13 +21,16 @@
 - [x] Search Insert Position **(Easy)** - https://leetcode.com/problems/search-insert-position/
 - [x] Summary Ranges **(Easy)** - https://leetcode.com/problems/summary-ranges/
 - [x] Sum of Unique Elements **(Easy)** - https://leetcode.com/problems/sum-of-unique-elements/
+- [x] Find All Numbers Disappeared in an Array **(Easy)** - https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 
 ### Binary Search
 
+- [x] Max Sum of Rectangle No Larger Than K **(Hard)** - https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 - [x] Dungeon Game **(Hard)** - https://leetcode.com/problems/dungeon-game/
 - [x] Find Minimum in Rotated Sorted Array II **(Hard)** - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 - [x] Split Array Largest Sum **(Hard)** - https://leetcode.com/problems/split-array-largest-sum/
 - [x] Count of Range Sum **(Hard)** - https://leetcode.com/problems/count-of-range-sum/
+- [x] Single Element in a Sorted Array **(Medium)** - https://leetcode.com/problems/single-element-in-a-sorted-array/
 - [x] Find Minimum in Rotated Sorted Array **(Medium)** - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 - [x] Search in Rotated Sorted Array II **(Medium)** - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - [x] Search in Rotated Sorted Array **(Medium)** - https://leetcode.com/problems/search-in-rotated-sorted-array/
@@ -33,6 +39,7 @@
 
 ### Bit Manipulation
 
+- [x] Maximum XOR With an Element From Array **(Hard)** - https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 - [x] Find Longest Awesome Substring **(Hard)** - https://leetcode.com/problems/find-longest-awesome-substring/
 - [x] Count Triplets That Can Form Two Arrays of Equal XOR **(Medium)** - https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 - [x] Total Hamming Distance **(Medium)** - https://leetcode.com/problems/total-hamming-distance/
@@ -47,6 +54,7 @@
 - [x] Power of Two **(Easy)** - https://leetcode.com/problems/power-of-two/
 - [x] Missing Number **(Easy)** - https://leetcode.com/problems/missing-number/
 - [x] XOR Operation in an Array **(Easy)** - https://leetcode.com/problems/xor-operation-in-an-array/
+- [x] Reverse Bits **(Easy)** - https://leetcode.com/problems/reverse-bits/
 
 ### Dynamic Programming
 
@@ -55,6 +63,7 @@
 - [x] Edit Distance **(Hard)** - https://leetcode.com/problems/edit-distance/
 - [x] Best Time to Buy and Sell Stock IV **(Hard)** - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 - [x] Best Time to Buy and Sell Stock III **(Hard)** - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
+- [x] Maximum Length of Repeated Subarray **(Medium)** - https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 - [x] Longest String Chain **(Medium)** - https://leetcode.com/problems/longest-string-chain/
 - [x] Longest Palindromic Substring **(Medium)** - https://leetcode.com/problems/longest-palindromic-substring/
 - [x] Minimum Path Sum **(Medium)** - https://leetcode.com/problems/minimum-path-sum/
@@ -90,6 +99,7 @@
 - [x] Remove Duplicate Letters **(Hard)** - https://leetcode.com/problems/remove-duplicate-letters/submissions/
 - [x] Jump Game II **(Hard)** - https://leetcode.com/problems/jump-game-ii/
 - [x] Couples Holding Hands **(Hard)** - https://leetcode.com/problems/couples-holding-hands/
+- [x]Best Time to Buy and Sell Stock with Transaction Fee **(Medium)** - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 - [x] Smallest Range II **(Medium)** - https://leetcode.com/problems/smallest-range-ii/
 - [x] Split Array into Consecutive Subsequences **(Medium)** - https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 - [x] Boats to Save People **(Medium)** - https://leetcode.com/problems/boats-to-save-people/
@@ -139,6 +149,10 @@
 
 - [x] Merge Two Sorted Lists **(Easy)** - https://leetcode.com/problems/merge-two-sorted-lists/
 
+### Math
+
+- [x] Consecutive Numbers Sum **(Hard)** - https://leetcode.com/problems/consecutive-numbers-sum/
+
 ### Sliding Window
 
 - [x] Grumpy Bookstore Owner **(Medium)** - https://leetcode.com/problems/grumpy-bookstore-owner/
@@ -148,11 +162,13 @@
 ### Sort
 
 - [x] Largest Number **(Medium)** - https://leetcode.com/problems/largest-number/
+- [x] Contains Duplicate III **(Medium)** - https://leetcode.com/problems/contains-duplicate-iii/
 
 ### Stack
 
 - [x] Longest Valid Parantheses **(Hard)** - https://leetcode.com/problems/longest-valid-parentheses/
 - [x] Trapping Rain Water **(Hard)** - https://leetcode.com/problems/trapping-rain-water/
+- [x] Sum of Subarray Minimums **(Medium)** - https://leetcode.com/problems/sum-of-subarray-minimums/
 - [x] 132 Pattern **(Medium)** - https://leetcode.com/problems/132-pattern/
 - [x] Min Stack **(Easy)** - https://leetcode.com/problems/min-stack/
 - [x] Valid Parentheses **(Easy)** - https://leetcode.com/problems/valid-parentheses/
